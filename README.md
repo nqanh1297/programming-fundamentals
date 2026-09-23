@@ -38,12 +38,6 @@ Chương trình học được chia thành 13 buổi với các chủ đề từ
 
 Repository này lưu trữ mã nguồn, bài tập thực hành và tài liệu học tập cá nhân cho môn học Tư duy tính toán và Nhập môn lập trình tại Đại học Công nghệ, ĐHQGHN (VNU-UET). Ngôn ngữ lập trình chính được sử dụng trong suốt khóa học là Python.
 
-## 👤 Thông tin sinh viên
-- **Họ và tên:** Ninh Quế Anh
-- **Mã sinh viên:** 25023152
-- **Khóa/Ngành:** K70 - Hệ thống thông tin (IS5)
-- **GitHub:** [@nqanh1297](https://github.com/nqanh1297)
-
 ## 🎯 Tổng quan học phần
 - **Số tín chỉ:** 5 (45/42/0/163)
 - **Mục tiêu Kiến thức:** 
